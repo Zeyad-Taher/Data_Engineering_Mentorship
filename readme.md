@@ -6,14 +6,16 @@ This repository contains a list of learning resources organized by levels for va
 
 ## Level 1
 
+[Proposed Timeline](level_1/readme.md)
+
 ### Python
 
 - [Python Basics for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
-- [ تعليم الألة , القسم الثالث بايثون ] (https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s)
-- [ Python - The Basics - Part 2 | السوعبان صديقى ] (https://www.youtube.com/watch?v=mlbe7Vxr7yA)
+- [ تعليم الألة , القسم الثالث بايثون ](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s)
+- [ Python - The Basics - Part 2 | السوعبان صديقى ](https://www.youtube.com/watch?v=mlbe7Vxr7yA)
 
 ### SQL
-
+- [DataLemur](https://datalemur.com/sql-tutorial) (Learn & Practice)
 - [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial) (Practice)
 - [SQLBolt](https://sqlbolt.com/lesson/introduction)
 - [Mode SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/)
@@ -30,16 +32,19 @@ This repository contains a list of learning resources organized by levels for va
 - [Bank Data Model](https://dwbi1.wordpress.com/2012/04/28/bank-data-model/)
 - [Data Warehousing Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOEDSc5QEbI8WYVV_EbWKJwX)
 - [Garage Education](https://www.youtube.com/playlist?list=PLxNoJq6k39G_m6DYjpz-V92DkaQEiXxkF)
+- [Data Modeling: One Big Table vs Kimball vs Relational for data engineers](https://www.youtube.com/watch?v=ltQgbSs99WU)
 
 ### Docker
 
 - [Docker سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ)
+- [Docker Practical Course In Arabic](https://www.youtube.com/watch?v=tHP5IWfqPKk&list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR)
 - [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials)
 - [Working with Containers, Docker, and the IBM Cloud Container Registry](https://cognitiveclass.ai/courses/course-v1:IBM+GPXX09B2EN+v1)
 
 ### Spark
 
 - [Spark Foundation Training](https://www.learningjournal.guru/courses/spark/spark-foundation-training/)
+- [Pyspark In Arabic](https://youtube.com/playlist?list=PLJM7jJIw2GC2tPeonyPveb7Y9AggQSGuo&feature=shared)
 - [Apache Spark & Scala Tutorial Videos (2022 Updated)](https://www.youtube.com/playlist?list=PLEiEAq2VkUUK3tuBXyd01meHuDj7RLjHv)
 - [Spark Fundamentals](https://cognitiveclass.ai/courses/what-is-spark)
 - [SparkByExamples - Spark Tutorials](https://sparkbyexamples.com/pyspark-tutorial/)
@@ -51,6 +56,7 @@ This repository contains a list of learning resources organized by levels for va
 - "Hadoop: The Definitive Guide 4th Edition" (Part 1 only)
 - [Hadoop Foundation Training](https://www.learningjournal.guru/courses/hadoop/hadoop-foundation-training/) (Hadoop basics only)
 - [Introduction to Hadoop](https://cognitiveclass.ai/courses/introduction-to-hadoop)
+- [Big Data بالعربى](https://www.youtube.com/playlist?list=PLrooD4hY1QqAK5pbBpcthLuMa-cXnXJLE)
 
 ### Hive
 
@@ -69,11 +75,13 @@ This repository contains a list of learning resources organized by levels for va
 ### Version Control
 
 - [Atlassian Git Tutorial](https://www.atlassian.com/git)
+- [Big Data بالعربى](https://www.youtube.com/watch?v=Q6G-J54vgKc)
 
 ### Linux
 
 - [Getting started with Linux Terminal Commands](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX06VPEN+v1)
 - [Bash Scripting Tutorial for Beginners](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
+- [Big Data بالعربى](https://www.youtube.com/watch?v=gojeTqXdBH0)
 
 ### File Formats
 
